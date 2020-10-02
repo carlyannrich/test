@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test website for git training and testing Percy",
+  "main": "index.js",
+  "scripts": {
+    "test": "-f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlyannrich/test.git"
+  },
+  "keywords": [
+    "-f"
+  ],
+  "author": "CarlyRich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlyannrich/test/issues"
+  },
+  "homepage": "https://github.com/carlyannrich/test#readme",
+  "devDependencies": {
+    "@percy/agent": "^0.28.2"
+  },
+  "dependencies": {
+    "@percy/script": "^1.1.0"
+  }
+}
